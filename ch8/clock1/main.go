@@ -19,3 +19,7 @@ func main() {
 		handleConn(conn)
 	}
 }
+
+func handleConn(c net.Conn) {
+
+}
